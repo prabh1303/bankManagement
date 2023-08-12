@@ -1,4 +1,4 @@
-# **Banking Complaint and Load Management System**
+# **Banking Complaint and Loan Management System**
 ## Project Description 
 Database will include details of customers such as Customer Id(Primary Key), Name, Email-ID, DOB, Home Branch, City, State, Balance, Account Number. These all are attributes of Customer Entity Set.<br>
 Other Entity Set will be of Complaint which will have the following attributes:<br>
